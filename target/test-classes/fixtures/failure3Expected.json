@@ -1,0 +1,9 @@
+{
+    "originatorId": "1",
+    "destinationId": "1",
+    "amount": 10.40,
+    "result": "error",
+    "message": "Operation not allowed",
+    "error": null,
+    "timeStamp": null
+}

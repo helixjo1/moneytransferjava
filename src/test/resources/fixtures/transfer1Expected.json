@@ -1,0 +1,9 @@
+{
+    "originatorId": "1",
+    "destinationId": "2",
+    "amount": 10.50,
+    "result": "success",
+    "message": "Transfer complete",
+    "error": null,
+    "timeStamp": null
+}

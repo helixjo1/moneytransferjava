@@ -1,0 +1,9 @@
+{
+    "originatorId": "3",
+    "destinationId": "4",
+    "amount": 10000000.50,
+    "result": "error",
+    "message": "Not enough funds in account",
+    "error": null,
+    "timeStamp": null
+}

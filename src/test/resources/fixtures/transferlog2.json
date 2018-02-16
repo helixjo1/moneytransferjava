@@ -1,0 +1,29 @@
+[
+    {
+        "originatorId": "1",
+        "destinationId": "6",
+        "amount": 10.50,
+        "result": "error",
+        "message": "One or more of the accounts specified does not exist",
+        "error": "null",
+        "timeStamp": null
+    },
+    {
+        "originatorId": "3",
+        "destinationId": "4",
+        "amount": 10000000.50,
+        "result": "error",
+        "message": "Not enough funds in account",
+        "error": "null",
+        "timeStamp": null
+    },
+    {
+        "originatorId": "1",
+        "destinationId": "1",
+        "amount": 10.40,
+        "result": "error",
+        "message": "Operation not allowed",
+        "error": "null",
+        "timeStamp": null
+    }
+]
